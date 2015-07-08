@@ -7,7 +7,7 @@ import java.util.concurrent.SynchronousQueue;
  * @Autor : me
  * @Story : If만 있는 구문에 관한 문법
  * */
-public class Onlyif {
+public class AntiPatternOnlyif {
 	public static void main(String[] args) {
 /*
  * 구문 (statement)
